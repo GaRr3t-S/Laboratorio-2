@@ -1,0 +1,6 @@
+id_sede,edificio,nivel,id_salon,capacidad
+110,A,3,101,40
+110,A,3,102,30
+110,B,2,201,50
+120,C,1,301,60
+120,C,1,302,40
